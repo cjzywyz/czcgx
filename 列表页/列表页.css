@@ -11,7 +11,7 @@
 			}
 			/* 头部的大盒子主要用于定义头部颜色 */
 			.toububox{
-				width: 1519px;
+				width: 100%;
 				height: 240px;
 				border: none;
 				border-bottom: solid 1px #E0E0E0;
@@ -154,7 +154,7 @@
 			}
 			/* 内容页的大盒子用于定位,缩小窗口时和上面的头部对齐 */
 			.nrmaxbox{
-				width: 1519px;
+				width: 100%;
 				height: 2680px;
 				border: none;
 			}
@@ -239,7 +239,7 @@
 			}
 			/* 底部的大盒子主要用于定义颜色 */
 			.dibumaxbox{
-				width: 1519px;
+				width: 100%;
 				height: 430px;
 				border: none;
 				border-top: solid 1px #E0E0E0;
