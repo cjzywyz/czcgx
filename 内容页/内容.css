@@ -2,6 +2,9 @@
 				margin: 0px;
 				padding: 0px;
 			}
+			a{
+				text-decoration: none;
+			}
 			/* 头部的大盒子主要用于定义头部颜色 */
 			.toububox{
 				width: 100%;
